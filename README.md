@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, My name is Shahriar Shawon. I'm 27 years old, self-taught, software engineer. Currently, <br>I am working at TMSS ICT LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Eastern University.<br><br>
+Hi there, My name is Shahriar Shawon. I'm 27 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD. <br>I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Eastern University.<br><br>
 
 
 ## 🌐 Socials:
