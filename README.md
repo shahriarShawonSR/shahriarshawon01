@@ -23,6 +23,21 @@ Hi there, My name is Shahriar Shawon. I'm 27 years old, self-taught, software en
 * Attendance Management System.
 * Blog.
 
+### 💡 &nbsp; Skills
+* Knowledge of Object-oriented PHP programming. 
+* Understanding of MVC design patterns.
+* Knowledge of core Laravel features like - Request life cycle, Service container, Service provider, Dependency injection, Facade.
+* Knowledge on JavaScript core concepts and ES6.
+* Working knowledge of Vue js, Vuex and Vue Router.
+* Working knowledge with SQL databases and their declarative query languages.
+* Strong understanding of code versioning tools, such as GIT.
+* Strong understanding of features and utility functions of jQuery.
+* Working knowledge of Bootstrap5, Tailwind CSS, HTML5 and CSS3.
+* Ability to understand business requirements and translate them into technical requirements.
+
+### 🎓 &nbsp; Education
+* BSc in Computer Science & Engineering. Eastern University, Dhaka
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shahriarshawon01&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahriarshawon01&theme=chartreuse-dark&hide_border=false)<br/>
