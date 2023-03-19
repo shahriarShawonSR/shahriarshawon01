@@ -18,7 +18,7 @@ Hi there, My name is Shahriar Shawon. I'm 27 years old, self-taught, software en
 * Inventory Management System.
 
 ##### **Self Learning Project**
-###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL,Bootstrap,Tailwind CSS, VUE JS, MYSQL 
+##### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL,Bootstrap,Tailwind CSS, VUE JS, MYSQL 
 * E-Commerce.
 * Attendance Management System.
 * Blog.
