@@ -12,7 +12,7 @@ Hi there, My name is Shahriar Shawon. I'm 27 years old, self-taught, software en
 ### :office: &nbsp;WORK HISTORY
 
 ##### **TMSS ICT Limited, Software Engineer**, 08/2021 - Present | West Kazipara, Mirpur-10, Dhaka
-###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL 
+##### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL 
 * Microfinance Management System.
 * Provident Fund.
 * Inventory Management System.
